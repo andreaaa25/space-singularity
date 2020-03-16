@@ -1,0 +1,121 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Space Singularity</title>
+	<link rel="stylesheet" href="estilo.css">
+	<link rel="icon" href="imagenes/logocolor.ico">
+</head>
+	
+<body>
+	<header>
+		
+		<div class="contenedor">
+		
+			<div id="logo"><a href="#inicio"><img src="imagenes/logocolor.png" alt="logo"></a></div>
+			<ul id="menu">
+			<li><a href="#conceptos">Conceptos</a></li>
+			
+			<li><a href="#titulo">Artículos</a></li>
+				
+			<li><a href="#up">Sobre mí</a></li>
+			
+			<li><a href="mailto:andrea.arroliga25@gmail.com">Contáctame</a></li>
+			</ul>
+		</div>
+		
+		<div class="descripcion">
+			<h2 id="inicio">SPACE <span>SINGULARITY</span> DESIGN</h2>
+			<p>¡Bienvenidos y bienvenidas! <br>Space Singularity es un blog sobre diseño gráfico, para que podás aprendar más de sus conceptos, inspirarte y estar al día con las novedades y tendencias en sus diferentes áreas. Espero disfrutés de la visita. </p>
+		</div>
+	</header>
+	
+	<div class="encabezado">
+		<div id="imagen1"><img src="imagenes/extra2.png" alt="diseño"></div>
+		
+		<div id="imagen2"><img src="imagenes/extra5.png" alt="branding"></div>
+		
+		<div id="imagen3"><img src="imagenes/extra3.png" alt="diseñoeditorial"></div>
+		
+		<div id="imagen4"><img src="imagenes/extra6.png" alt="tipografia"></div>	
+	</div>
+	
+	<div class="contenidodiseno">
+		<h3 id="conceptos">¿QUÉ ES EL <span>DISEÑO GRÁFICO</span>?</h3>
+		<p>El diseño gráfico es una especialidad o profesión, cuyo objetivo es satisfacer necesidades de comunicación visual. Se ocupa de organizar imagen y texto, producidos en general por medios industriales, para comunicar un mensaje específico, a un determinado grupo social y con objetivos claros y definidos. A continuación, te presentaré algunas áreas de las que se ocupa:</p>
+	</div>
+	
+	<div class="bloque2">
+		<div id="bloque2imagen"><img src="imagenes/bloque1-3.png" alt="bloque2"></div>
+			<div id="branding">
+				<h3>BRANDING</h3>
+				<p>El branding de marca o de empresa es el proceso mediante el cual se construye una marca, comprendiendo este como el desarrollo y mantenimiento de un conjunto de atributos y valores inherentes a la marca y por la que esta será identificada por su público. <br><br>A la hora de desarrollar el branding para la marca de la empresa debemos tener en cuenta el aspecto de la marca. La marca debe transmitir lo que nosotros somos: un diseño sencillo, pegadizo. Es necesario jugar con los colores y la tipografía para confeccionar un buen logotipo que encaje con el espíritu de nuestra empresa. <br><br>En síntesis, podemos decir que el branding es un proceso profundo, de análisis, diseño y estrategia, con el fin de resolver los problemas que no todos pueden ver, y de cuyo éxito depende en gran medida la vida de las empresas de la sociedad actual.</p>
+			</div>
+	</div>
+	
+	<div class="bloque3">
+		<div id="bloque3imagen"><img src="imagenes/bloque2-3.png" alt="bloque3"></div>
+			<div id="disenoeditorial">
+				<h3>DISEÑO EDITORIAL</h3>
+				<p>El Diseño Editorial es la estructura y composición que forma a libros, revistas, periódicos, catálogos, caratulas, volantes, afiches, entre otros. Es la rama del diseño grafico que se enfoca de manera especializada en la estética y diseño tanto del interior como el exterior de los textos. Decimos especializada porque cada tipo de publicación tiene necesidades de comunicación particulares. Ningún proyecto de línea editorial puede parecerse al de otro salvo en aspectos generales. Hay un tipo de diseño único para cada tipo de publicación, por lo cual se requiere de profesionales capaces de alcanzar un equilibro simétrico entre el texto y la parte gráfica. <br><br>Para lograr el mercadeo exitoso de cualquier publicación, también es importante tener en cuenta la evolución y las tendencias del género en el que estará. Ya sea negativo o positivo, los diseños editoriales de otras publicaciones deben ser considerados como referentes a la hora de emprender la tarea de crear un nuevo diseño editorial para sacar mejores conclusiones.</p>
+			</div>
+	</div>
+	
+	<div class="bloque4">
+		<div id="bloque4imagen"><img src="imagenes/bloque3-3.png" alt="bloque4"></div>
+			<div id="tipografia">
+				<h3>TIPOGRAFÍA</h3>
+				<p>Es el arte y la técnica de crear y componer tipos para comunicar un mensaje, pidiéndose ver también como el arte y técnica del manejo y selección de tipos, originalmente de plomo, para crear trabajos de impresión. La tipografía también se ocupa del estudio y clasificación de las distintas fuentes tipográficas (que las hay muchas, desde Helvética, Calibri, Franklin Gothic, Arial, Georgia, Gill Sans, Impact, etcétera) que son finalmente las protagonistas principales del mundo gráfico, al ser los intermediarios entre los mensajes pensados por el emisor o la marca, y las ideas del diseñador. <br><br>La tipografía también es la deconstrucción, reconstrucción y posterior expresión del mundo gráfico, de sus sensaciones y experiencias a través de caracteres y símbolos que son plasmados y expuestos en forma de una comunicación escrita caracterizada por su alta carga sensorial.</p>
+			</div>
+	</div>
+	
+	<div class="articulos">
+		<div id="titulo"><h3>ARTÍCULOS SOBRE <span>DISEÑO</span></h3></div>
+		
+		<div class="contenedorarticulos">
+			<div id="articulo1">
+				<img src="imagenes/articulo1.png" alt="articulo1">
+				<h4>Libros pop-up: inspiración editorial desplegable</h4>
+				<p>Descubre cuáles son los libros pop-up favoritos de Silvia Hijano Coullaut, que le han inspirado a dedicarse a ellos profesionalmente.</p>
+				
+				<buttom><a href="https://www.domestika.org/es/blog/2869-libros-pop-up-inspiracion-editorial-desplegable">Ver más</a></buttom>
+			</div>
+			
+			<div id="articulo2">
+				<img src="imagenes/articulo2.png" alt="articulo2">
+				<h4>Las 5 reglas de oro para diseñar un logo exitoso</h4>
+				<p>Estas son las claves para crear un logo de calidad según la agencia de creatividad Tatabi Studio.</p>
+				
+				<buttom><a href="https://www.domestika.org/es/blog/2825-las-5-reglas-de-oro-para-disenar-un-logo-exitoso">Ver más</a></buttom>
+			</div>
+			
+			<div id="articulo3">
+				<img src="imagenes/articulo3.png" alt="articulo3">
+				<h4>¿Qué es el Design Thinking?</h4>
+				<p>Stiven Kerestegian, Head of Global Innovation de Ikea, nos da las 5 claves para entender el Design Thinking.</p>
+				
+				<buttom><a href="https://www.domestika.org/es/blog/2872-que-es-el-design-thinking">Ver más</a></buttom>
+			</div>	
+		</div>
+	</div>
+	
+	<div id="up"><h3>SOBRE MÍ</h3></div>
+	<div class="sobremi">
+		<div id="yo"><img src="imagenes/avatarcolor.png" alt="yo"></div>
+		<div id="nombre">
+			<h4>ANDREA <span>ARRÓLIGA</span></h4>
+			<p>¡Hola! Soy Andrea, estudiante de Diseño Gráfico de la Universidad Centroamericana en Nicaragua. Hasta ahora, las áreas del Diseño Gráfico que me gustan más son: Identidad Corporativa, Diseño Editorial, Diseño web y estoy segura que en un futuro me gustarán los medios audiovisuales.</p>
+		</div>
+	</div>
+	
+	<footer>
+		<div class="contenedorenlaces">
+			<div id="ig"><a href="https://www.instagram.com/andreaaa25/?hl=es-la" target="_blank"><img src="imagenes/ig.png" alt="instagram"></a></div>
+			
+			<div id="yt"><a href="https://www.youtube.com/watch?v=mPVDGOVjRQ0" target="_blank"><img src="imagenes/yt.png" alt="youtube"></a></div>
+			
+			<div id="fb"><a href="https://es-la.facebook.com/" target="_blank"><img src="imagenes/fb.png" alt="facebook"></a></div>
+		</div>
+	</footer>
+</body>
+</html>
